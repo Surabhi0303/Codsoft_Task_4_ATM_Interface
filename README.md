@@ -11,4 +11,4 @@ balance.
 7. Display appropriate messages to the user based on their chosen options and the success or failure
 of their transactions.
 
-I have MySQL to store th user data.
+I have MySQL to store the user data.
